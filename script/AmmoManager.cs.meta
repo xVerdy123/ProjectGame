@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 396c22e13cf3f774f8f2204ce5ae7d63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AmmoSound: {fileID: 8300000, guid: 3a1c7d301260e9a4a9a797dce27ff755, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

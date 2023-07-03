@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bd0bfd67c4e81a341bd092548e7fac29
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - bulletSpawn: {instanceID: 0}
+  - reloadSound: {fileID: 8300000, guid: 564b0a4122224984aa1ab3afbfaf6e06, type: 3}
+  - amptySound: {instanceID: 0}
+  - fireSound: {instanceID: 0}
+  - noAmmoSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
